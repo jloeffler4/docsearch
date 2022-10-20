@@ -1,0 +1,226 @@
+technical/biomed/1471-2091-3-4.txt:        AES, atomic emission spectroscopy; bp, base pairs; CD,
+technical/biomed/1471-2105-2-8.txt:           ) for all base paired positions 
+technical/biomed/1471-2105-2-8.txt:          base pairs. This involves making an independence
+technical/biomed/1471-2105-2-8.txt:          the aligned base pairs as the average of these two
+technical/biomed/1471-2105-2-8.txt:          the various sorts of base pairs (GC, AU, GU) in a single
+technical/biomed/1471-2105-2-9.txt:            bases are not equal, a one base pair gap is inserted
+technical/biomed/1471-2105-3-18.txt:        using an objective function that includes base pairing
+technical/biomed/1471-2105-3-18.txt:        interactions, primarily Watson-Crick base pairs but also
+technical/biomed/1471-2105-3-18.txt:        permitting noncanonical base pairs. This RNA structural
+technical/biomed/1471-2105-3-18.txt:            that are associated with base pairs and single-stranded
+technical/biomed/1471-2105-3-18.txt:            that it can transition to. Consensus base pairs will be
+technical/biomed/1471-2105-3-18.txt:            consensus base pair; but it will also contain several
+technical/biomed/1471-2105-3-18.txt:            Given the consensus structure, consensus base pairs
+technical/biomed/1471-2105-3-18.txt:            structure. For example, for a consensus base pair,
+technical/biomed/1471-2105-3-18.txt:          about 55-60% are involved in consensus base pairs. The
+technical/biomed/1471-2105-3-2.txt:        the occurrence of G:C, A:U, or G:U base pairs that occur
+technical/biomed/1471-2105-3-2.txt:        etc. ) and base pairs that form
+technical/biomed/1471-2105-3-2.txt:        97-98% of the secondary and tertiary structure base pairs
+technical/biomed/1471-2105-3-2.txt:            earlier), searches for helices and base pairs that are
+technical/biomed/1471-2105-3-2.txt:            maintaining G:C, A:U, and G:U base pairs. As more
+technical/biomed/1471-2105-3-2.txt:            eliminating previously proposed base pairs that are not
+technical/biomed/1471-2105-3-2.txt:            new secondary and tertiary structure base pairs that do
+technical/biomed/1471-2105-3-2.txt:            secondary structure base pairs and a few of the
+technical/biomed/1471-2105-3-2.txt:            tertiary structure base pairs predicted with
+technical/biomed/1471-2105-3-2.txt:            23S rRNA base pairs predicted with covariation analysis
+technical/biomed/1471-2105-3-2.txt:            CRW Site. However, while nearly all of the base pairs
+technical/biomed/1471-2105-3-2.txt:            predict many of the tertiary base pairings in the
+technical/biomed/1471-2105-3-2.txt:            of the secondary structure base pairings.
+technical/biomed/1471-2105-3-2.txt:            Beyond the base pairs predicted with covariation
+technical/biomed/1471-2105-3-2.txt:            each base pair, as predicted by covariation analysis.
+technical/biomed/1471-2105-3-2.txt:            base pairs, small closed circles for G:U, large open
+technical/biomed/1471-2105-3-2.txt:            base pair) have the greatest amount of covariation;
+technical/biomed/1471-2105-3-2.txt:            base pairs. Base pairs with a green, black, grey, or
+technical/biomed/1471-2105-3-2.txt:            and 2C. Note that the majority of the base pairs in the
+technical/biomed/1471-2105-3-2.txt:            16S and 23S rRNA have a red base pair symbol, our
+technical/biomed/1471-2105-3-2.txt:            some base pairs in the 16S and 23S rRNAs that have a
+technical/biomed/1471-2105-3-2.txt:            the global arrangement of the base pairs. For the
+technical/biomed/1471-2105-3-2.txt:            the secondary structure base pairs shown in blue above
+technical/biomed/1471-2105-3-2.txt:            base pairs and base triples are shown in red and green,
+technical/biomed/1471-2105-3-2.txt:            higher-order organization of the base pairs predicted
+technical/biomed/1471-2105-3-2.txt:            two alternative formats. The majority of the base pairs
+technical/biomed/1471-2105-3-2.txt:            base pair in each version of the 16S and 23S rRNA
+technical/biomed/1471-2105-3-2.txt:            and 23S [ 19 ] rRNA models. Every base pair in each of
+technical/biomed/1471-2105-3-2.txt:            base pairs were taken out of the structure model when
+technical/biomed/1471-2105-3-2.txt:            a G:C, A:U, or G:U base pair was greater than our
+technical/biomed/1471-2105-3-2.txt:            for those base pairs are available from the "Lousy
+technical/biomed/1471-2105-3-2.txt:            section. New base pairs were proposed when a (new)
+technical/biomed/1471-2105-3-2.txt:            579 proposed 16S rRNA base pairs evaluated against six
+technical/biomed/1471-2105-3-2.txt:            compare the numbers of sequences and base pairs
+technical/biomed/1471-2105-3-2.txt:            sequences and base pairs in the current structure model
+technical/biomed/1471-2105-3-2.txt:            (478 base pairs and approximately 7000 sequences for
+technical/biomed/1471-2105-3-2.txt:            16S rRNA, and 870 base pairs and approximately 1050
+technical/biomed/1471-2105-3-2.txt:            rRNA); and 3) all previously proposed base pairs that
+technical/biomed/1471-2105-3-2.txt:            rRNA base pairs predicted in the initial structure
+technical/biomed/1471-2105-3-2.txt:            either base paired or unpaired. Base paired nucleotides
+technical/biomed/1471-2105-3-2.txt:            heterogeneous collection of base pair interactions.
+technical/biomed/1471-2105-3-2.txt:            These include any non-canonical base pair (not a G:C,
+technical/biomed/1471-2105-3-2.txt:            pairs (when both positions in a base pair are not
+technical/biomed/1471-2105-3-2.txt:            flanked by two nucleotides that are base paired to one
+technical/biomed/1471-2105-3-2.txt:            another), base pairs in a pseudoknot arrangement, and
+technical/biomed/1471-2105-3-2.txt:            base pair). Each of these base pair categories has a
+technical/biomed/1471-2105-3-2.txt:            are base paired, nucleotides can also be unpaired in
+technical/biomed/1471-2105-3-2.txt:            for single positions, base pairs, and base triples for
+technical/biomed/1471-2105-3-2.txt:            all base pairs in the current covariation-based
+technical/biomed/1471-2105-3-2.txt:            structure models, b) tentative base pairs predicted
+technical/biomed/1471-2105-3-2.txt:            with covariation analysis, and c) base pairs previously
+technical/biomed/1471-2105-3-2.txt:            "Lousy" base pairs). Base triples are interactions
+technical/biomed/1471-2105-3-2.txt:            between a base pair and a third unpaired nucleotide;
+technical/biomed/1471-2105-3-2.txt:            the three types of tables: single bases, base pairs,
+technical/biomed/1471-2105-3-2.txt:            and base triples. Clicking on a position, base pair, or
+technical/biomed/1471-2105-3-2.txt:            (H-2A.2) used to predict the base pair is obtained,
+technical/biomed/1471-2105-3-2.txt:            link on the right-hand side of the base pair frequency
+technical/biomed/1471-2105-3-2.txt:            confidence rating for the base pairs predicted with the
+technical/biomed/1471-2105-3-2.txt:            extent of base pair types and their mutual exchange
+technical/biomed/1471-2105-3-2.txt:            predicted base pair. Red, our highest confidence
+technical/biomed/1471-2105-3-2.txt:            rating, denotes base pairs with the highest scores and
+technical/biomed/1471-2105-3-2.txt:            contains at least one red base pair. Base pairs with a
+technical/biomed/1471-2105-3-2.txt:            red base pair. Black base pairs have a lower
+technical/biomed/1471-2105-3-2.txt:            covariation score, while grey base pairs are invariant,
+technical/biomed/1471-2105-3-2.txt:            base pairs do not satisfy these constraints;
+technical/biomed/1471-2105-3-2.txt:            The covariation score for each base pair is
+technical/biomed/1471-2105-3-2.txt:            each base pair is equivalent to the highest ranking
+technical/biomed/1471-2105-3-2.txt:            927:1390 base pair in 16S rRNA (Figure 2C; H-2A). Note
+technical/biomed/1471-2105-3-2.txt:            that the entry for the 927:1390 base pair (H-2A) in the
+technical/biomed/1471-2105-3-2.txt:            list of base pairs in the left frame is red in the C
+technical/biomed/1471-2105-3-2.txt:            (or confidence) column. For this base pair, only the T
+technical/biomed/1471-2105-3-2.txt:            a G:U base pair, A:U base pair at 16.2%, U:A at 6.9%,
+technical/biomed/1471-2105-3-2.txt:            or G:G base pair (H-2A.1). The collective scoring data
+technical/biomed/1471-2105-3-2.txt:            928:1389 and 929:1388 base pairs are also both red.
+technical/biomed/1471-2105-3-2.txt:            extents of covariation for both base pairs and are thus
+technical/biomed/1471-2105-3-2.txt:            changes displayed for the base pairs and base triples.
+technical/biomed/1471-2105-3-2.txt:            for the three types of data, single bases, base pairs,
+technical/biomed/1471-2105-3-2.txt:            and base triples. Clicking on a position, base pair, or
+technical/biomed/1471-2105-3-2.txt:            base, base pair, or base triple. The presentation for
+technical/biomed/1471-2105-3-2.txt:            single bases, this number is in black. For base pairs,
+technical/biomed/1471-2105-3-2.txt:            The base pair types that result from a mutual change
+technical/biomed/1471-2105-3-2.txt:            adjacent nucleotides, base pairs, three nucleotides,
+technical/biomed/1471-2105-3-2.txt:        2) nucleotide and base pair frequency tables for all
+technical/biomed/1471-2105-3-2.txt:        and base pair frequency tables for more phylogenetic groups
+technical/biomed/1471-2105-3-2.txt:        nucleotide and base pair frequency tables when the
+technical/biomed/1471-2105-3-24.txt:        approximately every thousand base pairs [ 7 8 9 ] . Given
+technical/biomed/1471-2105-4-27.txt:          to, and interrogates the expression of a 25 base pair
+technical/biomed/1471-2121-1-2.txt:        aa, amino acid; Ab, antibody; bp, base pair; CaPO 
+technical/biomed/1471-2121-3-10.txt:        both encode a 10-base pair sequence that is identical to
+technical/biomed/1471-2121-3-10.txt:        the P3 sequence with an insertion of 3 base pairs at
+technical/biomed/1471-213X-1-4.txt:          the bpA. These two enzymes are rare eight base pair
+technical/biomed/1471-2156-2-17.txt:        The DMD gene spans 2.4 million base pairs of genomic DNA
+technical/biomed/1471-2156-2-17.txt:        gene (2.4 million base pairs), finding 100% of mutations is
+technical/biomed/1471-2156-2-3.txt:          three exons. The first exon contains 279 base pairs (bp)
+technical/biomed/1471-2156-2-7.txt:          Then, 5 μl of the PCR product (375 base pairs) was
+technical/biomed/1471-2156-2-7.txt:          products, 200 and 175 base pairs (A allele). The G to A
+technical/biomed/1471-2156-3-16.txt:          chromosomes have as few as 3-5 base pairs between the
+technical/biomed/1471-2156-3-4.txt:          TRP1 flanked by 200-base pair (bp)
+technical/biomed/1471-2164-2-1.txt:        date, extending over more than 1 megabase pairs of genomic
+technical/biomed/1471-2164-2-4.txt:          because of the correct base pair formed at the 3' end and
+technical/biomed/1471-2164-2-4.txt:          correctly base paired ends.
+technical/biomed/1471-2164-2-4.txt:        this assay to genotype any SNP regardless of the base pair
+technical/biomed/1471-2164-2-7.txt:        addition to the 93 base pairs from the E0 sequence and the
+technical/biomed/1471-2164-3-13.txt:          and the base pairing of the branch point with the U2RNA
+technical/biomed/1471-2164-3-13.txt:          the U1snRNP is mainly directed by RNA-RNA base pairing [
+technical/biomed/1471-2164-3-31.txt:          generated by RNase H; and 2) adding a few base pairs to
+technical/biomed/1471-2164-3-35.txt:          contains an A-rich stretch of 30 base pairs with 23 A
+technical/biomed/1471-2164-3-35.txt:          base pairs give the strongest hybridization signals.
+technical/biomed/1471-2164-3-35.txt:          and has a somewhat longer insert length (622 base pairs).
+technical/biomed/1471-2164-3-35.txt:        not only in terms of Watson-Crick base pairing, but also in
+technical/biomed/1471-2164-3-6.txt:          are two leucine zippers starting at base pairs 484 and
+technical/biomed/1471-2164-3-7.txt:          the detection window of 45 to 900 base pairs and
+technical/biomed/1471-2164-3-7.txt:          increasing numbers of base pairs: NewHeight =
+technical/biomed/1471-2164-3-7.txt:          correspond to sequence length in base pairs better than
+technical/biomed/1471-2164-3-7.txt:        analysis, MA - mixed analysis, bp - base pairs, StDev -
+technical/biomed/1471-2164-4-14.txt:          BGH037 amplify an ~180 base pair (bp) fragment from the 
+technical/biomed/1471-2164-4-16.txt:        tolerant to insertion of up to 125 base pairs between the
+technical/biomed/1471-2164-4-2.txt:          base pair region spanning the polyadenylation signal in
+technical/biomed/1471-2164-4-21.txt:          the base pairing between the probe and target, but
+technical/biomed/1471-2164-4-21.txt:          the probes was conserved but the base pairing in the
+technical/biomed/1471-2164-4-21.txt:        the base paired region resulted in greatly decreased
+technical/biomed/1471-2164-4-25.txt:        million base pairs of genomic sequence surrounding the peak
+technical/biomed/1471-2164-4-25.txt:        Figure 1with base pair 1 starting at the 5-prime end of
+technical/biomed/1471-2164-4-25.txt:          The two million base pairs of index genomic sequence
+technical/biomed/1471-2164-4-25.txt:          amplicon was designed to be between 90 and 150 base pairs
+technical/biomed/1471-2180-1-12.txt:        within ∼ 18 base pairs of the 3' end of the growing DNA
+technical/biomed/1471-2180-1-31.txt:          then made against this ORF and the 1578 base pair gene
+technical/biomed/1471-2180-1-34.txt:          anti-P dsRNA in which the lowercase A-U base pair (see
+technical/biomed/1471-2180-1-34.txt:          lowercase a-u base pair was changed to g-c (see
+technical/biomed/1471-2180-2-13.txt:          ) by one base pair (bp) in the right half-site (e.g., A 
+technical/biomed/1471-2180-2-38.txt:          few nucleotides over a 2,400 base pair coding sequence.
+technical/biomed/1471-2180-3-13.txt:            variation in the type of RNA/RNA base pairing occurs
+technical/biomed/1471-2180-3-13.txt:          maintain base pairs in stems. Thus the large divergence
+technical/biomed/1471-2180-3-13.txt:          intra- and inter- molecular base pairings, i.e., stem
+technical/biomed/1471-2180-3-13.txt:          loop a and stem 2 (Figure 12). Compensatory base pair
+technical/biomed/1471-2180-3-13.txt:        nt, nucleotides; bp, base pairs
+technical/biomed/1471-2180-3-15.txt:        reaction; bp - base pair; kb - kilobase; ATCC - American
+technical/biomed/1471-2199-2-12.txt:          200, 250, and 500 base pairs, with the 500 base pair band
+technical/biomed/1471-2199-2-12.txt:          major band of approximately 480 base pairs was observed
+technical/biomed/1471-2199-2-12.txt:          480 and 400 base pairs were observed (Fig. 2A). Nested
+technical/biomed/1471-2199-2-12.txt:        RLM-RACE, a faint band of approximately 150 base pairs
+technical/biomed/1471-2199-2-12.txt:        containing ~500 base pairs upstream of the ATG start codon
+technical/biomed/1471-2199-2-12.txt:        435 base pairs upstream of the ATG was inactive [ 35 ] .
+technical/biomed/1471-2199-2-12.txt:        positioned ~30 base pairs downstream of an AT-rich element
+technical/biomed/1471-2199-2-5.txt:          indicate the mutated base pairs.
+technical/biomed/1471-2199-3-17.txt:          purine and/or base pair at that position, whereas G3C and
+technical/biomed/1471-2199-3-17.txt:          restored base pairing were also identified. Further, the
+technical/biomed/1471-2199-3-17.txt:          show selection for a Watson-Crick base pair at the
+technical/biomed/1471-2199-3-17.txt:          the downstream base pair whenever there was an upstream
+technical/biomed/1471-2202-2-12.txt:          found to have the expected size of 420 base pairs.
+technical/biomed/1471-2202-3-16.txt:          out using forty-eight base pair oligonucleotide probes,
+technical/biomed/1471-2202-3-7.txt:        sequence flanked by the inverted 19 base pair repeats known
+technical/biomed/1471-2202-3-7.txt:        complex process that involves generating a 9 base pair
+technical/biomed/1471-2202-3-7.txt:        subsequently repaired to produce a 9 base pair duplication
+technical/biomed/1471-2210-2-14.txt:          base pairs in the 3'UTR compared with REP2-2.7. It is
+technical/biomed/1471-2210-2-14.txt:          created an open reading frame of 1,083 base pairs with an
+technical/biomed/1471-2229-2-3.txt:        stringency with a 300 base pair homologous 
+technical/biomed/1471-2229-2-3.txt:        conducted at high stringency with a 1700 base pair
+technical/biomed/1471-2229-2-3.txt:        approximately 100 base pairs for ease of visualization on
+technical/biomed/1471-2229-2-3.txt:        amplification product of 579 base pairs. Primer pair T-21
+technical/biomed/1471-2229-2-3.txt:        455 base pairs. Primers T-31 and T-32 correspond to
+technical/biomed/1471-2229-2-3.txt:        transcript-3 and amplify a 362 base pair product. Lastly,
+technical/biomed/1471-2229-2-3.txt:        produce a 238 base pair amplification product. The
+technical/biomed/1471-2229-2-3.txt:          was a 300 base pair digoxigenin labeled PCR product.
+technical/biomed/1471-2229-2-3.txt:          analysis was a 1700 base pair PCR product.
+technical/biomed/1471-2229-2-3.txt:          A 300 base pair cDNA probe corresponding to nucleotide
+technical/biomed/1471-2229-2-3.txt:          blot analysis. An approximately 1700 base pair cDNA probe
+technical/biomed/1471-2334-3-12.txt:        introduction of mismatched base pairs. The effectiveness of
+technical/biomed/1471-2350-2-2.txt:          Then, 5 μl of the PCR product (265 base pairs) was
+technical/biomed/1471-2350-2-2.txt:          yielded two products, 69 and 196 base pairs (f allele),
+technical/biomed/1471-2350-2-8.txt:          Lithuania) digestion of a 244-base pair PCR-amplified
+technical/biomed/1471-2377-3-4.txt:          of a variable number of tandem repeats of 39 base pairs,
+technical/biomed/1471-2458-3-5.txt:          OL26 and JWA-1b generates an amplicon of ~292 base pairs
+technical/biomed/1471-2474-2-1.txt:        a 287 base pair fragment of intron 16 [ 13]. Patients may
+technical/biomed/1471-2474-2-1.txt:          fragments (86, 46, and 37 base pairs) in the normal
+technical/biomed/1471-2474-2-1.txt:          allele and two fragments (123 and 46 base pairs) in the
+technical/biomed/1472-6750-1-13.txt:        incorporation of single base pair substitutions in the
+technical/biomed/1472-6750-1-13.txt:        748 were screened along with all possible single base pair
+technical/biomed/1475-4924-1-5.txt:        sequence located within a few hundred base pairs of the
+technical/biomed/1475-4924-1-5.txt:        base pairs away from the promoter. These regulatory modules
+technical/biomed/1475-4924-1-5.txt:          nearly 125 kilo-base pairs (kbp) in length, with a
+technical/biomed/1477-7827-1-23.txt:          base pair region of OSU-T1-50 had significant homology
+technical/biomed/ar297.txt:          PCR products of the expected 350 base pair (bp) length
+technical/biomed/ar409.txt:          fragment (~800 base pairs) was prepared by PCR and
+technical/biomed/ar774.txt:          single base pair within the highly conserved reverse
+technical/biomed/ar774.txt:        bp = base pair(s); EMSA = electrophoretic mobility shift
+technical/biomed/bcr570.txt:        bp = base pairs; PCR = polymerase chain reaction.
+technical/biomed/bcr571.txt:        bp = base pairs; FISH = fluorescence 
+technical/biomed/bcr602.txt:          of 225 base pairs. The internal control for all samples
+technical/biomed/bcr631.txt:          size by 30 base pairs. These two products were cloned
+technical/biomed/gb-2000-1-1-research002.txt:          of intronic sequence - 15,337 base pairs (bp) from
+technical/biomed/gb-2001-2-12-research0054.txt:          three base pairs:TTG--- for the -35 region and TA---T for
+technical/biomed/gb-2001-2-3-research0008.txt:          between 400 and 800 base pairs (511 base pairs ± 197 base
+technical/biomed/gb-2001-2-3-research0008.txt:          library range between 139 to 1,746 base pairs (bp),
+technical/biomed/gb-2001-2-4-research0010.txt:          necessarily true because of Watson-Crick base pairing.
+technical/biomed/gb-2001-2-4-research0011.txt:          sequenced to completion, yielding a 1,036 base pair (bp)
+technical/biomed/gb-2001-2-4-research0014.txt:          range of 200-1,000 base pairs (bp) are optimal.
+technical/biomed/gb-2001-2-6-research0021.txt:          a span of 69,034 base pairs [ 2]. Human mitochondrial DNA
+technical/biomed/gb-2001-2-6-research0021.txt:          2 rRNAs and 22 tRNAs) over 16,569 base pairs [ 3]. All
+technical/biomed/gb-2001-2-7-research0025.txt:        the 3.2 billion base pair (bp) human genome is
+technical/biomed/gb-2001-2-7-research0025.txt:          obtain a median of 0.017 entries per base pair for known
+technical/biomed/gb-2001-2-7-research0025.txt:          genes and 0.005 entries per base pair for anonymous
+technical/biomed/gb-2001-2-8-research0027.txt:          seven different microbial genomes, using 25 base pairs
+technical/biomed/gb-2002-3-10-research0053.txt:        content of 430 million base pairs (Mbp), the rice genome is
+technical/biomed/gb-2002-3-10-research0053.txt:        base pairs (2.5 Gbp) and that of wheat ( 
+technical/biomed/gb-2002-3-12-research0079.txt:          98.7% of the base pairs are contained within 100-kb
+technical/biomed/gb-2002-3-12-research0079.txt:          and the total number of base pairs involved in those
+technical/biomed/gb-2002-3-12-research0083.txt:            hundred base pairs, and the separation can be as much
+technical/biomed/gb-2002-3-6-research0029.txt:          micro-exons, ranging from 3 to 25 base pairs (bp) in
+technical/biomed/gb-2003-4-4-r24.txt:        important considering that within a few hundred base pairs,
+technical/biomed/rr196.txt:          approximately 500 base pairs upstream of the stop codon,

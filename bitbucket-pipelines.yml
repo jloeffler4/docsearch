@@ -1,0 +1,8 @@
+pipelines:
+  default:
+    - step:
+        name: Mirror to GitHub
+        clone:
+          depth: full
+        script:
+          - git push --mirror git@github.com:jloeffler4/docsearch.git
